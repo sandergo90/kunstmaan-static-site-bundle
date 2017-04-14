@@ -9,7 +9,7 @@
        }
    ],
     "require": {
-        "nassau/registry-compiler": "dev-master",
+        "nassau/registry-compiler": "dev-symfony3",
         "kunstmaan/bundles-cms": "^4.0"
     },
     "minimum-stability": "dev",
