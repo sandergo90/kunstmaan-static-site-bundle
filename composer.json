@@ -2,12 +2,6 @@
     "name": "nassau/kunstmaan-static-site-bundle",
     "description": "Export your Kunstmaan Bundles CMS website to static HTML files",
     "type": "library",
-    "repositories": [
-       {
-           "type": "vcs",
-           "url": "https://github.com/sandergo90/registry-compiler.git"
-       }
-   ],
     "require": {
         "nassau/registry-compiler": "dev-symfony3",
         "kunstmaan/bundles-cms": "^4.0"
